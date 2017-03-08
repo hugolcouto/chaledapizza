@@ -1,0 +1,15 @@
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\bin\Debug\Chale da Pizza.exe.config
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\bin\Debug\Chale da Pizza.exe
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\bin\Debug\Chale da Pizza.pdb
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\bin\Debug\Chale da Pizza.xml
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale da Pizza.vbprojResolveAssemblyReference.cache
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale_da_Pizza.Form1.resources
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale_da_Pizza.Resources.resources
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale da Pizza.vbproj.GenerateResource.Cache
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale da Pizza.exe
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale da Pizza.xml
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale da Pizza.pdb
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\bin\Debug\clientes.accdb
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale_da_Pizza.addCliente.resources
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale_da_Pizza.buscCliente.resources
+C:\Users\hugoc_000\Desktop\Software Chalé da Pizza\Chale da Pizza\Chale da Pizza\obj\Debug\Chale_da_Pizza.about.resources
